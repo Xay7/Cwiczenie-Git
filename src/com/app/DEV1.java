@@ -1,5 +1,5 @@
 package com.app;
 
 public class DEV1 {
-    public String autor = "Emilian Ä†wiok";
+    public static String author = "Emilian Æwiok";
 }

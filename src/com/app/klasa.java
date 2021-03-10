@@ -6,7 +6,7 @@ public class klasa {
 	  System.out.println(System.getProperty("java.vendor"));
 	  System.out.println(System.getProperty("java.vendor.url"));
 	  System.out.println(System.getProperty("java.version"));
-	  System.out.println("Æwiczenie Git | Emilian Æwiok | Rafa³‚ Bujewski");
+	  System.out.println(DEV1.author + " " + DEV2.author);
 	}
 
 }
